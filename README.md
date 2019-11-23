@@ -1,2 +1,11 @@
-# SimpleFS
-The goal of the Algorithms and Data Structures' project is to implement a simple hierarchical filesystem.
+<p align="center"> 
+<img src="Deliverables/polimi_logo.png">
+</p>
+
+# A simple, hierarchical filesystem.
+## Carlo Calzamiglia
+
+
+
+
+
